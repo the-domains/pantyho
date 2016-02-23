@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Home]]></title>
         <description><![CDATA[Home]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pantyho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 20:35:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 20:35:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pantyho/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>g</p>]]></description>
+            <link>https://thegrid.ai/pantyho/e7c4dec4-e883-43ae-bfd0-180c48c2bc38/index.html</link>
+            <guid isPermaLink="false">e7c4dec4-e883-43ae-bfd0-180c48c2bc38</guid>
+            <pubDate>Tue, 23 Feb 2016 20:35:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a Trial post!The is a super awesome trail post!</p>]]></description>
-            <link>undefined999ababa-8282-40ad-82db-6823ede173b2/index.html</link>
+            <link>https://thegrid.ai/pantyho/999ababa-8282-40ad-82db-6823ede173b2/index.html</link>
             <guid isPermaLink="false">999ababa-8282-40ad-82db-6823ede173b2</guid>
             <pubDate>Tue, 23 Feb 2016 20:35:02 GMT</pubDate>
         </item>
